@@ -65,3 +65,9 @@ Run a local Hardhat node for development:
 ```bash
 npx hardhat node
 ```
+
+## Running Python Server
+
+```bash
+python3 -m http.server 4444
+```
