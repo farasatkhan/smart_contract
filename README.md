@@ -66,7 +66,19 @@ Run a local Hardhat node for development:
 npx hardhat node
 ```
 
+## Webpack
+
+use the following command with Webpack to bundle the project:
+
+```bash
+npx webpack
+```
+
 ## Running Python Server
+
+```bash
+cd dist
+```
 
 ```bash
 python3 -m http.server 4444
