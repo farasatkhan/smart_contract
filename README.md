@@ -24,9 +24,6 @@ Execute the tests using the following command:
 npx hardhat test
 ```
 
-markdown
-Copy code
-
 # Web 3 Smart Contracts
 
 ## Installation
