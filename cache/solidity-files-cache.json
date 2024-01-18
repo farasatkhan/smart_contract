@@ -1,10 +1,10 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "C:\\Portfolio\\smart_contract\\contracts\\Main.sol": {
-      "lastModificationDate": 1705569800795,
-      "contentHash": "e700e4e2519205c364e04ddd58acedbf",
-      "sourceName": "contracts/Main.sol",
+    "C:\\Portfolio\\smart_contract\\contracts\\ContractA.sol": {
+      "lastModificationDate": 1705572463469,
+      "contentHash": "31de0558109d68014d19645465fda128",
+      "sourceName": "contracts/ContractA.sol",
       "solcConfig": {
         "version": "0.8.19",
         "settings": {
@@ -30,10 +30,10 @@
       },
       "imports": [],
       "versionPragmas": [
-        "^0.8.0"
+        "^0.8.19"
       ],
       "artifacts": [
-        "Main"
+        "ContractA"
       ]
     }
   }
